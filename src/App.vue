@@ -2,7 +2,6 @@
   <div class="app-container">
     <h1>App 根组件</h1>
     <hr />
-
     <div class="box">
       <!-- 渲染 Left 组件和 Right 组件 -->
       <!-- <img src="http://10.100.69.219:8301/auth/captcha?key=1234"/> -->
